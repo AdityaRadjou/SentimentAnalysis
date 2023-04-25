@@ -20,7 +20,7 @@ I used the F-1 Score to assess and compare the performance of these models.
 | Model        | F-1 Score |
 |--------------|:---------:|
 | TextBlob     | 0.59      |
-| VADER        | 0      |
+| VADER        | 0.48      |
 | NBC          | 0.65     |
 | BERT         | 0     |
 
