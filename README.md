@@ -16,7 +16,7 @@ I used the F-1 Score to assess and compare the performance of these models.
 ## Table of results:
 
 ### F-1 Score of the 4 models
-30-day readmission using discharge summaries
+
 | Model        | F-1 Score |
 |--------------|:---------:|
 | TextBlob     | 0.59      |
